@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    text-align: justify;
+}
+header {
+height: 100px;
+background: linear-gradient(90deg,#fff,#FF5B81);
+}
+nav {
+    color:black;
+}
+title {
+    color:rgb(209, 214, 228);
+    font-size:4rem;
+    font-family:Arial;
+    margin-left:2%;
+}
+
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    color:#b83151;
+}
+h4 {
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+h5 {
+    color: grey;
+    font-style: italic;
+}
